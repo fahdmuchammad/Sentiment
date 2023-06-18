@@ -1,0 +1,5 @@
+streamlit
+regex
+pandas
+scikit-learn
+sastrawi
