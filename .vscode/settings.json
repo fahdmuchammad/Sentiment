@@ -1,4 +1,7 @@
 {
     "git.ignoreLimitWarning": true,
-    "terminal.integrated.fontFamily": "MesloLGS NF"
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "jupyter.kernels.excludePythonEnvironments": [
+        "python base"
+    ]
 }
